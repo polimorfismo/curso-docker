@@ -14,4 +14,4 @@ Material de apoio do Curso de Docker.
 # Aulas 14 e 15 - Migração de uma aplicação web com banco de dados para Docker 
 
 * [Projeto **NÃO** conteinerizado](https://github.com/lucasfv1/form_contato_nao_containerizado_curso_docker)
-* [Projeto **CONTAINERIZADO**](https://github.com/lucasfv1/form_contato_docker_compose_curso_docker)
+* [Projeto **CONTAINERIZADO**](https://github.com/lucasfv1/form_contato_containerizado_curso_docker)
