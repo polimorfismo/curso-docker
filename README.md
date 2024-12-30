@@ -1,6 +1,10 @@
 # Curso de Docker
 Material de apoio do Curso de Docker.
 
+# Links importantes
+* [Site oficial do Docker](https://www.docker.com/)
+* [Docker Hub](https://hub.docker.com/)
+
 # Aula 08 - Criando imagens personalizadas
 
 ## Estrutura do projeto
