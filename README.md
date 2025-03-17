@@ -1,5 +1,7 @@
 # Curso de Docker
-Material de apoio do Curso de Docker. O curso completo pode ser encontrado em: https://www.udemy.com/course/dominando-o-docker/?referralCode=6E278949F001F54B3997
+Material de apoio do Curso de Docker. 
+
+O curso completo pode ser encontrado em: https://www.udemy.com/course/dominando-o-docker/?referralCode=6E278949F001F54B3997
 
 # Links importantes
 * [Site oficial do Docker](https://www.docker.com/)
